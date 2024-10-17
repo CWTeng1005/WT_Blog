@@ -1,0 +1,10 @@
+{
+  "name": "WT's Life Blog",
+  "short_name": "WT's Blog",
+  "description": "A personal blog.",
+  "background_color": "#fff",
+  "theme_color": "#000",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait"
+}

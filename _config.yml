@@ -1,0 +1,38 @@
+# Site Settings
+title: WT's Life Blog
+SEOTitle: 歪婷的博客 | WT's Blog
+email: chingwaiteng@outlook.com
+description: "No Try No Life."
+url: "https://cwteng1005.github.io/WT_Blog/"
+header-img: img/flower.jpg
+
+# Sidebar Settings
+sidebar: true
+sidebar-about-description: "I can do all things through CHRIST who strengthens me. \n【Philippians 4:13】"
+sidebar-avatar: https://raw.githubusercontent.com/CWTeng1005/WT_Blog/refs/heads/my-pages/img/%E9%9B%A8%E8%A1%A3%E5%B0%8F%E7%8B%97.jpg
+
+# SNS Settings
+RSS: false
+github_username: CWTeng1005
+
+# Build Settings
+permalink: pretty
+paginate: 7
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+# Gems
+gems: [jekyll-paginate]
+
+# Markdown Settings
+markdown: kramdown
+highlighter: rouge
+kramdown:
+input: GFM
+
+# Featured Tags
+featured-tags: true
+featured-condition-size: 1
+
+# Progressive Web Apps
+chrome-tab-theme-color: "#000000"
+service-worker: true
