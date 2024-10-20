@@ -9,7 +9,7 @@ header-img: img/flower.jpg
 # Sidebar Settings
 sidebar: true
 sidebar-about-description: "I can do all things through CHRIST who strengthens me. \n【Philippians 4:13】"
-sidebar-avatar: https://raw.githubusercontent.com/CWTeng1005/WT_Blog/refs/heads/my-pages/img/%E9%9B%A8%E8%A1%A3%E5%B0%8F%E7%8B%97.jpg
+sidebar-avatar: /雨衣小狗.jpg
 
 # SNS Settings
 RSS: false
